@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SuleymanQ
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Typescript, Vue, React, Nestjs and Rust language
+- 🌱 I’m currently learning Typescript, Vue, Nestjs
 - 📫 suleyman91002@gmail.com
