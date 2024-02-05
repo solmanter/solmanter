@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @SuleymanQ
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Typescript, Vue, Nuxt, Nestjs
-- 📫 suleyman91002@gmail.com
+👋 Hello world! I'm Suleyman, web developer here to turn lines of code into digital poetry.
